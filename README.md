@@ -2,7 +2,7 @@
 
 About the Application:
 
-1) Help Fast Consist of two Application, one for First Person and other for Police/Ambulance Driver.
+1) Help Fast Consist of two Application, one for Ultimate First Person and other for UltimePoliceApp (Police/Ambulanc Driver).
 2) The First Person who see an accident can report it's FIR and track the Nearest Ambulance. It also gives him an option to call for Life Support in the case of Emergency via "firstperson.apk".
 3) Police can directly get the FIR submitted by First Person and can get the location of accident which will help them  to reach to the location ASAP via "medicalpoliceaid.apk"
 4) Ambulance Driver can track the accident location and can reach on the spot ASAP. 
